@@ -1,0 +1,10 @@
+.title{
+    color:red;
+    text-align: center;
+}
+
+div{
+    background-image: url('image.png');
+    height:500%;
+    width: 100%;
+}
