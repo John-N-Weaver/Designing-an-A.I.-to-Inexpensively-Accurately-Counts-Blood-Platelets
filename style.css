@@ -1,0 +1,13 @@
+.title{
+    color:red;
+    text-align: center;
+}
+
+.showPic{
+    background-image: url('image.png');
+    background-size: 150px;
+  width: 300px;
+  height: 300px;
+  border: solid 2px red;
+  
+}
