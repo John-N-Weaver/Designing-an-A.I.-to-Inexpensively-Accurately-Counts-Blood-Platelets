@@ -1,7 +1,7 @@
 
 # Designing-an-A.I.-to-Inexpensively-Accurately-Counts-Blood-Platelets  (John Weaver, Chris Ayala, Brian Van Vlymen)
 
-## our website is https://john-n-weaver.github.io/Designing-an-A.I.-to-Inexpensively-Accurately-Counts-Blood-Platelets/
+## OUR NEW WEBSITE IS LIVE https://john-n-weaver.github.io/Designing-an-A.I.-to-Inexpensively-Accurately-Counts-Blood-Platelets/
 
 A physician friend of mine was complaining about the cost of medical devices that perform platelet counts, easily $20,000 and up.  I suggested that why couldn't that be done with a simple Raspberry Pi and digital microscope.  That off the cuff remark lead me to actually pondering "Is this truly possible?".  
 
